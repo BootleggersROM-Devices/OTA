@@ -58,7 +58,7 @@
     </lettuce>
 	  
     <A6020>
-      <Filename>BootleggersROM-Oreo4A6020.2.1-BETA-Shishufied-20180304.zip</Filename>
+      <Filename>BootleggersROM-Oreo4A6020.2.1-Stable-Shishufied-20180304.zip</Filename>
       <RomUrl id="rom" title="" description="">https://sourceforge.net/projects/bootleggersrom/files/A6020</RomUrl>
       <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">https://google.se</RomMirrorUrl>
       <!--
