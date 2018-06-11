@@ -219,6 +219,17 @@ halped you sur , pl press the danks button.">https://www.androidfilehost.com/?fi
       <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
 
     </athene>
+	  
+	  <harpia>
+	    <Filename>BootleggersROM-Oreo4harpia.2.2-Stable-Shishufied-20180530.zip</Filename>
+	    <RomUrl id="rom" title="2.2-STABLE" description="If i 
+halped you sur , pl press the danks button.">https://androidfilehost.com/?fid=674106145207490182</RomUrl>
+    <!--
+	  <ChangelogUrl id="changelog" title="" description="">
+	  https://bootleggersrom.github.io/
+	  </ChangelogUrl>-->
+            <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
+   </harpia>
 									 
   </Stable>	  
 </SlimOTA>
