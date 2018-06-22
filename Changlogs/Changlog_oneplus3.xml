@@ -1,179 +1,97 @@
 ====================
-     04-14-2018
+     05-23-2018
+====================
+
+
+   * vendor/bootleggers/ota/
+1fb6f22 Z00L: 23rd May Update
+
+====================
+     05-22-2018
 ====================
 
 
    * frameworks/base/
-27e57fa systemui: Fix tamil translation derp
-977ceb8 Automatic translation import
+353bfec SystemUI: Reload more assets on overlay change
 
-   * packages/apps/BootlegDumpster/
-f4346a6 Automatic translation import
+   * vendor/bootleggers/ota/
+1402830 Land:Updated 20180522
 
-   * packages/apps/BootlegOTA/
-6e37770 Automatic translation import
+====================
+     05-21-2018
+====================
+
+
+   * device/qcom/sepolicy/
+3f58c95 legacy: Add debugfs rules for rmt_storage
+b187ebf legacy: Import hci_qcomm_init policies
+
+   * frameworks/base/
+f3c6c48 Unbreak public api by hiding substratum interfaces
+a3ed0fd Add support for getAtr api
+
+   * packages/apps/Dialer/
+ec32a0a Control dialer's incoming call proximity sensor check via an overlay
 
    * packages/apps/Launcher3/
-f9e5648 Automatic translation import
+b540633 Launcher3: Theme more sections like System settings theme
+484ae15 Automatic translation import
+057fe19 Automatic translation import
+7c7f664 Launcher3: Fixes strings for crowdin
+1e120ea Revert "add settings activity as launcher activity, can be hidden anyway"
+649a2a7 Launcher3: Bunch of tweaks of strings and more
+3d70111 Launcher3: Add coloring into missing colors
+cc7f297 Launcher3: Move all the Lean stuff out
+f7a9c40 Launcher3: Make the icons follow the settings theme
+6bc941b Fix this back again
+1d9591a Launcher3: Set dark theme and disable bottom search bar by default
+74174bf Fix permissions not working
+7e33aa0 Change the Settings theme to match System Settings' theme
+d54344a Launcher3: Use system's accent
+21b49fe launcher3: Rebrand to Shishu HOME launcher.
+ced01bb [TEST] Bring back the launcher package declaration
 
-   * packages/apps/OmniStyle/
-0b0fd0f Fix colourlovers tint collection
-a487f8a Add itsaalex poison headers
+   * packages/services/Telephony/
+d83bdc2 Add getAtr support
 
-   * packages/apps/Settings/
-3b7ecfc Automatic translation import
-f587d33 settings: Let's clarify this because many people will blame us
+   * system/core/
+50b6b3f Remove Foreground Boost CPUSet
 
-   * vendor/bootleggers/
-fe146bd vendor: Let's make the upgrade
-56f8ec0 soong: Add TARGET_USES_QTI_CAMERA_DEVICE
-
-   * vendor/bootleggers/extras/
-0aab139 Add the dreambender banner
-
-   * vendor/bootleggers/ota/
-42c72c9 Merge pull request #16 from shamith16/patch-3
-4585edc Merge pull request #15 from shamith16/patch-2
-eb3fe93 Create Changlog_potter.xml
-0f1decc add potter
-
-====================
-     04-13-2018
-====================
-
-
-   * build/make/
-4e7b634 Build Shishu Illusions theme [3/3]
-
-   * frameworks/base/
-538a026 base: Clarify this due to people being people
-e8d82c0 base: Please don't translate names
-c90269c Base: Add Shishu Illusions theme [1/3]
-94dc93f [1/2] LS Clock Font - Switch back to Roboto Light
-3f5d509 [1/2] base: LS clock font - Let's use light instead of thin
-fe88433 ShishuNights: Fix condition cards background
-0e9e58d Add a one time QS dialog for the theme tile
-b22b259 Introduce Theme tile
-
-   * packages/apps/BootlegDumpster/
-d1d51f3 dumpster: [LazyWay] Restart systemUI silently
-6dd0d87 Revert "[1/2] base: Set GoBold font as default LS font"
-869f103 dumpster: Remove roboto thin, leave roboto light and light italic
-
-   * packages/apps/DUI/
-c9eab25 Fix Pulse disappearing sometimes after skipping tracks
-56fc7db Pulse: don't elaborate useless waveform
-ef5ca91 Fix potential Smartbar FC for buttons custom application
-066be04 Fix smartbar media arrows not showing sometimes
-5dd49d3 Fix FC for Fling when unpinning an app
-
-   * packages/apps/Settings/
-ba9925b Settings: Add Shishu Illusions theme [2/3]
+   * system/sepolicy/
+649b5bd sepolicy: Allow recovery to write to rootfs
+f14cd53 Revert "sepolicy: Conditionally restore support for legacy f_adb interface"
 
 ====================
-     04-12-2018
+     05-20-2018
 ====================
 
 
-   * frameworks/av/
-abf8a1d camera: Only link and use vendor.qti.hardware.camera.device if specified
-
-   * frameworks/base/
-b0a56ea Allow QS detail view to scroll
-d9cd87d Add QSDetailItems
-8fcfd15 Fruity pebbles [1/4]
-
-   * hardware/interfaces/
-21a3250 camera: Only link and use vendor.qti.hardware.camera.device if specified
-
-   * hardware/libhardware/
-a9ccaf5 audio_amplifier: add hooks for stream parameter manipulation
-
-   * hardware/qcom/audio-caf/msm8998/
-d5f954a audio: add amplifier hooks for stream parameter manipulation
-
-   * packages/apps/BootlegDumpster/
-249ea3e Fruity pebbles [3/4]
-
-   * packages/apps/Settings/
-afc947c Adjust delay to prevent glitches when reloading notifications
-a544181 Settings: Disable system theme preferences when Substratum overlays are enabled
-d1067d0 Make aosp theme selector unavailable
-a5a46e7 Fruity pebbles [4/4]
-538efdd Unlink notification volume [2/2]
-5c5f336 Revert "Settings: unlink notification volume is back [2/2]"
-
-   * vendor/bootleggers/
-fd9ac5a vendor: It's more pink than red
-aaea07e Fruity pebbles [2/4]
-
-   * vendor/bootleggers/ota/
-762d113 Merge pull request #14 from kihope/master
-e943532 Update shishu_ota.xml
-879dd81 Create Changlog_x2.xml
-
-   * vendor/oneplus/
-dc330b0 msm8998: update blobs from OP5 beta7 / OP5T beta5
-f2d5cb3 msm8998: add qti_libpermissions.xml
-cdaf2a2 msm8998: build qti camera device from sources
+   * system/nfc/
+8488bba Memory leak fix in NFA_SetRfDiscoveryDuration()
+5fc77e0 Correct the parameter length for core_initialized()
+4e3b65f Fix TASKPTR's definition to match actual function signatures.
+dcb4954 Fix GKI task release twice issue
 
 ====================
-     04-11-2018
+     05-19-2018
 ====================
 
 
    * frameworks/base/
-ba6a0d1 base: Add three-fingers-swipe to screenshot [1/2]
+7631d2c Themes: build as apps
 
-   * packages/apps/BootlegDumpster/
-f6cc537 Dumpster: Add three-fingers-swipe to screenshot [2/2]
-5a1f10a dumpster: Make strings untranslatable for crowdin
+   * frameworks/opt/telephony/
+4763de0 Add support of new HIDL service
+ff49345 TelephonyComponentFactory: Overload makeSubscriptionInfoUpdater
+1d42138 RIL: Allow overriding RadioResponse and RadioIndication
 
    * packages/apps/Launcher3/
-21cc35d Launcher3: Fixes strings for crowdin
-
-   * packages/apps/Settings/
-e28260e settings: Tweaks strings for crowdin
-
-   * vendor/bootleggers/
-41c259b Kill teal color for the default printer service
-f38ec72 More pixel theme changes
-57bbe54 Set FootprintPurple in a different way
-f6e08e2 vendor: Let's start teasing
-
-   * vendor/bootleggers/ota/
-22e256f add x2
-
-====================
-     04-10-2018
-====================
-
-
-   * frameworks/base/
-b511f81 DefaultPermissions: Add permissions for Google Markup
+7c64e3d add option to change icon label size separately
+c6a3a94 bump version
+de5f6b3 add option to manually reset all app name/icon/visibility changes
+dc86937 add option to fall back to system default icons
+655cec9 improve icon filtering by name don't filter by components until fully parsed to avoid concurrency issues improve search UI a bit
 
    * vendor/bootleggers/
-c86a39f overlays: Fix our FMRadio & Contacts icons
-7f6c225 vendor: test and set the new default wallpaper
-3fac42f vendor: Include Markup backport
-6412747 vendor: Update google sans
-ea3d62a vendor: Include GoogleSans Medium font
-cf11a3b [1/2] vendor: Add 3 new fonts
-58c16ff Add Google Exclusive Features
-aad41a6 vendor: add GoogleWallpaperPicker
-18be997 vendor: Add NTFS packages (#1)
-e535bbf Move all system props to PRODUCT_GENERIC_PROPERTIES
-
-   * vendor/bootleggers/extras/
-7a3e21b Fix thumbnails
-b8569d5 Switch from imgur to gitlab
-
-   * vendor/bootleggers/ota/
-95c3de4 some tweaks
-3ce074b Z00L: fix the link again
-5ba658e Z00L: add mirror
-5afbe40 Z00L: Fix Download Link
-bd6876c Z00L: Fix Links
-29b2e54 Z00L: 09th April update changelogs
-041564e Z00L: 09th April Updated
-
+60f4193 vendor: Update GoogleSans fonts
+e0d2261 [1/4] La Fontage: Add prebuilt fonts
