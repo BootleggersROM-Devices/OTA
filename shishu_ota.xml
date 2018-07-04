@@ -232,5 +232,12 @@ halped you sur , pl press the danks button.">https://sourceforge.net/projects/bo
       <RomUrl id="rom" title="Another Update" description="Another new update :D">https://sourceforge.net/projects/bootleggersrom/files/builds/wt88047/</RomUrl>
       <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
     </wt88047>
+	  
+    <whyred>
+      <Filename>BootleggersROM-Oreo4whyred.2.3-Stable-Shishufied-20180702.zip</Filename>
+      <RomUrl id="rom" title="" description="">https://sourceforge.net/projects/bootleggersrom/files/builds/whyred/BootleggersROM-Oreo4whyred.2.3-Stable-Shishufied-20180702.zip/download</RomUrl>
+      <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">https://google.se</RomMirrorUrl>
+      <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
+    </whyred>
   </Stable>	  
 </SlimOTA>
