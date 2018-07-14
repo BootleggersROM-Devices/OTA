@@ -1,4 +1,20 @@
 ====================
+     14-07-2018
+====================
+July Patch Merged
+Kernel: Updates from CAF (thanks to [MENTION=4480917]Alberto97[/MENTION])
+Device updates from [MENTION=4480917]Alberto97[/MENTION] including...
+Update fluence properties for O HAL
+Offline charger fix
+sepolicy updates
+Large Clock: adjust padding in doze
+====================
+     BUG
+====================
+Lol U tell
+====================
+
+====================
      21-06-2018
 ====================
 JUNE SECURITY PATCH MERGED							 
@@ -15,7 +31,7 @@ INBUILT LOG EXTRACTOR ADDED. (Now u no need to install any third party app for l
 MORE ACCENT ADDED
 
 ====================
-	  DEVICE
+     DEVICE
 ====================
 SELINUX IS ENFORCING
 GPS FIXED
