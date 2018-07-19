@@ -239,5 +239,16 @@ halped you sur , pl press the danks button.">https://sourceforge.net/projects/bo
       <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">https://google.se</RomMirrorUrl>
       <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
     </whyred>
+	  
+    <vince>
+      <Filename>BootleggersROM-Oreo4vince.2.3-Stable-Shishufied-20180719.zip</Filename>
+      <RomUrl id="rom" title="" description="">https://sourceforge.net/projects/bootleggersrom/files/builds/vince/BootleggersROM-Oreo4vince.2.3-Stable-Shishufied-20180719.zip/download</RomUrl>
+      <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">https://drive.google.com/file/d/1lvwPNzVCf9XZsThlfAUlN4mSrZ432dEU/view?usp=drivesdk</RomMirrorUrl>
+      <!--
+	  <ChangelogUrl id="changelog" title="" description="">
+	  https://github.com/bootleggersrom
+	  </ChangelogUrl>-->
+      <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
+    </vince>  
   </Stable>	  
 </SlimOTA>
