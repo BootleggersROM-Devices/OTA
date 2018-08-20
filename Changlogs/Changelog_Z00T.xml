@@ -1,8 +1,28 @@
 ====================
-     10-07-2018 
+     20-08-2018
 ==================== 
-- Merged Tag android-8.1.0_r41 
-- July Security Patch 
-- Fixed Reboot Issue 
-- Fixed Big Clock Padding On Ambient Display
-- Bug Fixes & Improvments
+- Merged Tag android-8.1.0_r43
+- August Security Patch
+- Whole Source Rebased To Aosp
+- Enforcing Selinux
+- Build With Rebased FireKernel
+- Added Default Font Manager
+- Added New Shishu Immensity Theme
+- Added New Shishu Amalgamation Theme
+- Added StatusBar Weather
+- Added Pocket Lock
+- Added Charging Sound
+- Added Gaming Mode Tile
+- Added LTE Tile
+- Added Log Tile 
+- Added StatusBar Brightness Control Support
+- Added Support For Flashlight Blink On Incoming Calls
+- Added Support For Changing Brightness Slider Position
+- Added Support To Show Battery Fully Charged Notification
+- Added Option To Disable FC Dialogs
+- Added New Music Player
+- Added Jelly Browser
+- Add Custom Rounded Corner & Padding Preferences
+- Updated All Our Themes
+- Updated Translations
+- Lot's Of Performance Tweaks & Improvements
