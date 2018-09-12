@@ -1,11 +1,7 @@
 ====================
-     26-08-2018
+     12-09-2018
 ==================== 
-- Added Night Light
-- Added Google Clock As Default
-- Added Back Proximity Check On Wake
-- Fixed Back Panic Behavior
-- Fixed BootlegOTA App
-- Fixed Translations
-- Removed Volume Up/Down Tones
+- Merged Tag android-8.1.0_r46
+- September Security Patch
+- Few Kernel Specific Changes
 - Performance Tweaks & Improvements
