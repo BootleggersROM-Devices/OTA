@@ -1,7 +1,9 @@
 ====================
      12-09-2018
 ==================== 
-- Merged Tag android-8.1.0_r46
-- September Security Patch
-- Few Kernel Specific Changes
-- Performance Tweaks & Improvements
+- Merged Tag android-8.1.0_r47
+- October Security Patch
+- Fixed Bluetooth FC Sometimes
+- Updated Audio Props
+- Removed Useless Props
+- Source Upstream
