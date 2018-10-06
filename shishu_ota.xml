@@ -167,8 +167,9 @@ halped you sur , pl press the danks button.">https://sourceforge.net/projects/bo
     </x2>
 	  
     <s2>
-      <Filename>BootleggersROM-Oreo4s2.2.2-Stable-Shishufied-20180603.zip</Filename>
-      <RomUrl id="rom" title="" description="Make You Feel Home :p">https://www.androidfilehost.com/?fid=818222786056034536</RomUrl>
+      <Filename>BootleggersROM-Oreo4s2.3.0-Stable-Shishufied-20181005.zip</Filename>
+      <RomUrl id="rom" title="" description="Make You Feel Home :p">https://www.androidfilehost.com/?fid=1322778262904020947</RomUrl>
+      <RomMirrorUrl id="romirror" title="Mirror" description="Visit The XDA Thread">https://forum.xda-developers.com/le-2/development/rom-bootleggersrom-leeco-le-2-s2-t3779562</RomMirrorUrl>
       <ChangelogUrl id="changelogs" title="Changlogs" description="Check Out The Latest Changes">https://github.com/BootleggersROM-Devices/OTA/blob/master/Changlogs/Changelog_s2.xml</ChangelogUrl>
       <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
     </s2>
