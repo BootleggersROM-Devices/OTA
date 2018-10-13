@@ -263,5 +263,30 @@ halped you sur , pl press the danks button.">https://sourceforge.net/projects/bo
       <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">https://google.se</RomMirrorUrl>
       <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
     </hero2lte>	  	  
+	  
+    <j53gxx>
+      <Filename>BootleggersROM-Oreo4j53gxx.3.0-Stable-Shishufied-20181013</Filename>
+      <RomUrl id="rom" title="" description="SM-J500H aka j53gxx">https://android.jenslody.de/BootleggersROM/j53gxx/Oreo/20181013/BootleggersROM-Oreo4j53gxx.3.0-Stable-Shishufied-20181013.zip</RomUrl>
+      <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
+    </j53gxx>
+
+    <j5lte>
+      <Filename>BootleggersROM-Oreo4j5lte.3.0-Stable-Shishufied-20181013</Filename>
+      <RomUrl id="rom" title="" description="SM-J500F/G/M/NO/Y aka j5lte">https://android.jenslody.de/BootleggersROM/j5lte/Oreo/20181013/BootleggersROM-Oreo4j5lte.3.0-Stable-Shishufied-20181013.zip</RomUrl>
+      <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
+    </j5lte>
+
+    <j5ltechn>
+      <Filename>BootleggersROM-Oreo4j5ltechn.3.0-Stable-Shishufied-20181013</Filename>
+      <RomUrl id="rom" title="" description="SM-J5008 aka j5ltechn">https://android.jenslody.de/BootleggersROM/j5ltechn/Oreo/20181013/BootleggersROM-Oreo4j5ltechn.3.0-Stable-Shishufied-20181013.zip</RomUrl>
+      <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
+    </j5ltechn>
+
+    <j5nlte>
+      <Filename>BootleggersROM-Oreo4j5nlte.3.0-Stable-Shishufied-20181013</Filename>
+      <RomUrl id="rom" title="" description="SM-J500FN aka j5nlte">https://android.jenslody.de/BootleggersROM/j5nlte/Oreo/20181013/BootleggersROM-Oreo4j5nlte.3.0-Stable-Shishufied-20181013.zip</RomUrl>
+      <AddonsURL id="addons" title="Check our addons!" description="Didn't we tell you about this yet?">https://bootleggersrom.github.io/romstuff/addons</AddonsURL>
+    </j5nlte>
+	  
  </Stable>	  
 </SlimOTA>
