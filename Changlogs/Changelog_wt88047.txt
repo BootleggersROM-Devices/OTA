@@ -1,0 +1,14 @@
+Bootleggers ROM V 3.0 Shishufied Dated 27-11-2018
+
+Changes:
+
+Device:
+1) 100% HW button customization fixed
+2) Pretty Smoothness
+3) Some other stuffs
+4) Excalibur Kernel Prebuilt
+
+Source:
+1) November Security Patch ( 05-11-2018)
+2) Performance Improvement and Fixes
+3) And More Flash and enjoy XD
